@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1482408745 source:d:\projektyc++\systemwalki\main.cpp
+	<iostream>
+	<string>
+	"hero.h"
+	"potion.h"
+	"opponent.h"
+
+1482407954 source:d:\projektyc++\systemwalki\hero.cpp
+	"hero.h"
+	<iostream>
+
+1482407954 d:\projektyc++\systemwalki\hero.h
+
+1482405392 source:d:\projektyc++\systemwalki\potion.cpp
+	"potion.h"
+
+1482405444 d:\projektyc++\systemwalki\potion.h
+
+1482409043 source:d:\projektyc++\systemwalki\opponent.cpp
+	"opponent.h"
+	<string>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1482408553 d:\projektyc++\systemwalki\opponent.h
+	<string>
+
