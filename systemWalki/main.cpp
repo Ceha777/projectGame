@@ -10,7 +10,7 @@ int main()
 {
     hero player(100);
     potion minorHealth(100);
-    opponent goblin(20, "goblin");
+    opponent goblin(21, "goblin");
     int wybor;
     for (int i = 0; i<100; i++){
         wybor = 0;
